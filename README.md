@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,react,vue,flutter,svelte,dotnet,figma,firebase,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,react,vue,flutter,svelte,dotnet,figma,firebase,mysql,git,postman" />
 </p>
 
 ---
