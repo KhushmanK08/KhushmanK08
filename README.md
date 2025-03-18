@@ -48,22 +48,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushmanK08&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushmanK08&theme=tokyonight" height="180px"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:khushmankapoor287@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/khushmankapoor">
+  <a href="www.linkedin.com/in/khushman-kapoor-256414261">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
