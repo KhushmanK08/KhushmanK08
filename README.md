@@ -23,16 +23,14 @@
 ### 📌 Valorant Companion (Flutter)
 🔹 A mobile app for managing and searching Valorant lineups.  
 🔹 Integrated **Firebase Authentication** and **Realtime Database**.  
-🔹 Features **animated UI components** for a modern feel.  
-🔹 🔗 [GitHub Repository](#)  
+🔹 Features **animated UI components** for a modern feel.   
 
 ---
 
 ### 📌 Weather App (ReactJS)
 🔹 Fetches live weather data using **OpenWeather API**.  
 🔹 Displays **temperature, humidity, and wind speed** dynamically.  
-🔹 Fully **responsive design** with a sleek UI.  
-🔹 🔗 [GitHub Repository](#)  
+🔹 Fully **responsive design** with a sleek UI.   
 
 ---
 
@@ -40,23 +38,21 @@
 🔹 A player rating system built using **SvelteKit**.  
 🔹 Authentication & **real-time storage with Firebase**.  
 🔹 Ensures smooth, **responsive UI interactions**.  
-🔹 🔗 [GitHub Repository](#)  
 
 ---
 
 ### 📌 Bikes R Us Inc. (Full-Stack .NET)
 🔹 A complete **bike sales & service management** system.  
 🔹 Built with **C#, Blazor, ASP.Net Core, and SQL Server**.  
-🔹 Features **inventory tracking & service management**.  
-🔹 🔗 [GitHub Repository](#)  
+🔹 Features **inventory tracking & service management**.    
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushmankapoor&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushmankapoor&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushmanK08&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushmanK08&theme=tokyonight" height="180px"/>
 </p>
 
 ---
