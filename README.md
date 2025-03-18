@@ -1,53 +1,73 @@
-# Hi there, I'm Khushman Kapoor! 👋
+<h1 align="center">👋 Hi, I'm Khushman Kapoor!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77D02&width=435&lines=Passionate+Front-End+Developer;Tech+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-44b5-a5d2-62ac27d5c9f4.gif" width="80%" />
 </p>
 
-## 🚀 About Me
-
-Hi! I'm **Khushman Kapoor**, a passionate **Front-End Developer** who loves bringing ideas to life through **beautiful and functional UI/UX**. Whether it's building sleek **web applications** or crafting dynamic **mobile experiences**, I enjoy coding and designing for the modern web.
+<p align="center">
+  <b>Front-End Developer | Flutter Enthusiast | UI/UX Designer</b>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🎨 UI/UX Enthusiast
-
-I have a strong passion for **designing intuitive and engaging user experiences**. With a deep understanding of **accessibility**, **responsive design**, and **performance optimization**, I create applications that are both visually appealing and highly functional.
-
-🔹 **Prototyping & Wireframing** using Figma 🎨  
-🔹 **Animation & Motion Effects** for a dynamic user experience ✨  
-🔹 **Dark Mode & Theming** because aesthetics matter! 🌑🌞
-
----
-
-## 🌟 Fun Facts
-
-- 🎮 A huge fan of **Valorant** & esports 🕹️
-- 🎵 Love **lo-fi & Hip Hop music** while coding 🎧
-- 🌍 Always curious to explore **new technologies & frameworks**
-
----
-
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="mailto:khushmankapoor287@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/khushman-kapoor-256414261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,react,vue,flutter,svelte,dotnet,figma,firebase,mysql,git,github,postman" />
 </p>
 
 ---
 
-✨ **Let's connect and build something amazing together!** 🚀
+## 🚀 Projects
+
+### 📌 Valorant Companion (Flutter)
+🔹 A mobile app for managing and searching Valorant lineups.  
+🔹 Integrated **Firebase Authentication** and **Realtime Database**.  
+🔹 Features **animated UI components** for a modern feel.  
+🔹 🔗 [GitHub Repository](#)  
+
+---
+
+### 📌 Weather App (ReactJS)
+🔹 Fetches live weather data using **OpenWeather API**.  
+🔹 Displays **temperature, humidity, and wind speed** dynamically.  
+🔹 Fully **responsive design** with a sleek UI.  
+🔹 🔗 [GitHub Repository](#)  
+
+---
+
+### 📌 Sports Aux Player Rater (SvelteKit)
+🔹 A player rating system built using **SvelteKit**.  
+🔹 Authentication & **real-time storage with Firebase**.  
+🔹 Ensures smooth, **responsive UI interactions**.  
+🔹 🔗 [GitHub Repository](#)  
+
+---
+
+### 📌 Bikes R Us Inc. (Full-Stack .NET)
+🔹 A complete **bike sales & service management** system.  
+🔹 Built with **C#, Blazor, ASP.Net Core, and SQL Server**.  
+🔹 Features **inventory tracking & service management**.  
+🔹 🔗 [GitHub Repository](#)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushmankapoor&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushmankapoor&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:khushmankapoor287@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khushmankapoor">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
