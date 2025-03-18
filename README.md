@@ -36,20 +36,8 @@ I have a strong passion for **designing intuitive and engaging user experiences*
 ## 🌟 Fun Facts
 
 - 🎮 A huge fan of **Valorant** & esports 🕹️
-- 🎵 Love **lo-fi & EDM music** while coding 🎧
+- 🎵 Love **lo-fi & Hip Hop music** while coding 🎧
 - 🌍 Always curious to explore **new technologies & frameworks**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushmanKapoor&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushmanKapoor&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
@@ -57,8 +45,7 @@ I have a strong passion for **designing intuitive and engaging user experiences*
 
 <p align="center">
   <a href="mailto:khushmankapoor287@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/khushman-kapoor-256414261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
