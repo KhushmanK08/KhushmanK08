@@ -6,6 +6,10 @@
 
 <p align="center">
   <b>Front-End Developer | Flutter Enthusiast | UI/UX Designer</b>
+  <br/>
+  <a href="https://portfolio-tau-lime-2o1ld0iwt9.vercel.app/" target="_blank">
+    🌐 View My Portfolio
+  </a>
 </p>
 
 ---
