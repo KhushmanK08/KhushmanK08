@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a voice assistant that can help me control my pc using my voice<br>🌱 I’m currently exploring UI/UX animation techniques<br>💬 Ask me about JavaScript, Svelte, or anything regarding gaming<br>⚡ Fun fact: I’m not just a developer—I also play Valorant competitively and currently represent an Esports team called Era Ethos 🎮
+🔭 I’m currently working on a voice assistant that can help me control my pc using my voice<br>🌱 I’m currently exploring UI/UX animation techniques<br>💬 Ask me about JavaScript, Svelte, or anything regarding gaming<br>⚡ Fun fact: I’m not just a developer, I also play Valorant competitively and currently represent an Esports team called Era Ethos 🎮
 
 
 ## 🌐 Socials:
